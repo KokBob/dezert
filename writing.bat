@@ -1,0 +1,6 @@
+explorer "https://www.deepl.com/translator"
+explorer "https://www.deepl.com/write"
+explorer "https://dictionary.cambridge.org"
+explorer "https://www.thesaurus.com"
+explorer "https://app.grammarly.com"
+explorer "https://chat.openai.com/chat"
